@@ -1,0 +1,19 @@
+# Local research, earlier deliverables and downloaded software
+/work/
+/outputs/
+.DS_Store
+
+# Runtime files and credentials must stay local
+beszel_data/
+beszel_agent_data/
+*.exe
+*.zip
+*.tar.gz
+*.db
+*.db-shm
+*.db-wal
+*.log
+.env
+.env.*
+*.key
+*.pem
